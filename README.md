@@ -20,4 +20,4 @@ This project uses pandas to analyze the Titanic database to explore whether cert
 - Passengers travelling in small families (2-4 members) had the highest survival rates.
 - Passengers travelling solo or in large families had lower survival rates.
 ## File
-- pandas_practice1.ipynb - contains the complete analysis
+- titanic-survival-analysis.ipynb - contains the complete analysis
